@@ -1,2 +1,2 @@
-# bogie-its
+# bogie-ios
 iOS app for Bogie
